@@ -1,0 +1,24 @@
+#addhouse{
+    border: 1px solid #ccc;
+    width: 500px;
+    margin: auto;
+    border-collapse: collapse;
+
+}
+td,th{
+    border: 1px solid #ccc;
+}
+th{
+    background: dodgerblue;
+}
+
+#buttons{
+    text-align: center;
+}
+
+#addneigh{
+    border: 1px solid #ccc;
+    width: 500px;
+    margin: auto;
+    border-collapse: collapse;
+}
